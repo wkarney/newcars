@@ -1,4 +1,4 @@
-# More than just new car smell: An exploration of pricing factors for the new car market
+# **More than just new car smell:** An exploration of pricing factors for the new car market
 
 ### Data Source / Description:
 * Data from [Kaggle and Cooper Union](https://www.kaggle.com/CooperUnion/cardataset)
@@ -6,3 +6,7 @@
 * Most recent data is from December 2016 (Model year 2017)
 * Note: dataset contains the three most recent years of data on each car model. Thus, for cars currently in production there will only be data for the 2015-17 model years.
 
+### Problem Statements
+* What factors matter most when buying a car?
+* How much are you paying for certain brand names alone?
+* Can you accurately predict the price of a car based on specs?
